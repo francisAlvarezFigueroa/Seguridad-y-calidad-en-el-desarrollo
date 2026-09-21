@@ -31,3 +31,12 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# OWASP Dependency-Check
+target/
+dependency-check-data/
+dependency-check-reports/
+*.html
+
+*.log
+*.gz
